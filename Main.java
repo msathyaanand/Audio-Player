@@ -44,3 +44,26 @@ public class Main {
 		System.out.println("Bye Player!!");
 }
 }
+
+
+
+
+/*
+This is a Java program that plays an audio file named "Hologram.wav" using the Java Sound API.
+
+The program uses the Scanner class to take input from the user.
+
+The AudioInputStream class is used to read the audio file and the Clip class is used to play the audio.
+
+The program displays a menu for the user to choose from: P=Play, S=Stop, R=Reset, Q=Quit.
+
+The program uses a switch statement to execute the user's choice.
+
+If the user chooses "P", the audio starts playing. If the user chooses "S", the audio stops playing. If the user chooses "R", the audio is reset to the beginning. If the user chooses "Q", the program exits.
+
+If the user enters an invalid response, the program displays "Not a valid Response".
+
+Once the user chooses "Q", the program displays "Bye Player!!" and exits.
+
+
+*/
