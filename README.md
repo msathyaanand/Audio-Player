@@ -5,7 +5,7 @@ This is a simple audio player implemented in Java that runs in the console. It a
 ## Features
 
 - Play audio files in formats such as MP3, WAV, and FLAC.
-- Pause, resume, stop, and skip tracks.
+- Pause, resume and stop.
 - Adjust volume level.
 - Display track information including duration and current position.
 - Command-line interface for easy interaction.
